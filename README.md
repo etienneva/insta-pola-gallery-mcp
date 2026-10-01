@@ -31,11 +31,13 @@ The server is hosted by Insta-Pola, so there is nothing to install or run.
 
 ### Claude (claude.ai or the Claude app)
 
-1. Open **Customize › Connectors** and click **Add custom connector**.
-2. Name: `Insta-Pola`. URL: `https://www.insta-pola.com/mcp/claude`
-3. If Claude asks for an OAuth client, choose **Register automatically**.
-4. Click **Connect**, sign in to your Insta-Pola account and click **Autoriser** (Authorize).
-5. In a conversation, enable Insta-Pola under **+ › Connectors**.
+Insta-Pola is listed in the [Claude connectors directory](https://claude.ai/directory/connectors/insta-pola-photo-gallery).
+
+1. Open the listing, or go to **Customize › Connectors** and search for **Insta-Pola**.
+2. Click **Connect**, sign in to your Insta-Pola account and click **Autoriser** (Authorize).
+3. In a conversation, enable Insta-Pola under **+ › Connectors**.
+
+As a custom connector instead: **Add custom connector** with the URL `https://www.insta-pola.com/mcp/claude`; if Claude asks for an OAuth client, choose **Register automatically**.
 
 On Claude Team or Enterprise, an organization owner adds the connector; each member then connects their own Insta-Pola account.
 

@@ -27,11 +27,13 @@ Transport Streamable HTTP, sans état. Inscrit au registre officiel MCP sous `co
 
 ## Ajouter Insta-Pola à Claude
 
-1. Ouvre **Personnaliser › Connecteurs**, puis **Ajouter un connecteur personnalisé**.
-2. Nom : `Insta-Pola`. URL : `https://www.insta-pola.com/mcp/claude`
-3. Si Claude demande un client OAuth, choisis **Enregistrer automatiquement**.
-4. Clique sur **Connecter**, connecte-toi à ton compte Insta-Pola et clique sur **Autoriser**.
-5. Dans une conversation, active Insta-Pola dans **+ › Connecteurs**.
+Insta-Pola est dans le [répertoire des connecteurs de Claude](https://claude.ai/directory/connectors/insta-pola-photo-gallery).
+
+1. Ouvre la fiche, ou va dans **Personnaliser › Connecteurs** et cherche **Insta-Pola**.
+2. Clique sur **Connecter**, connecte-toi à ton compte Insta-Pola et clique sur **Autoriser**.
+3. Dans une conversation, active Insta-Pola dans **+ › Connecteurs**.
+
+En connecteur personnalisé : **Ajouter un connecteur personnalisé** avec l'adresse `https://www.insta-pola.com/mcp/claude` ; si Claude demande un client OAuth, choisis **Enregistrer automatiquement**.
 
 Dans Claude Code :
 
