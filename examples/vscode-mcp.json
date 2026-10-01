@@ -1,0 +1,5 @@
+{
+  "servers": {
+    "insta-pola": { "type": "http", "url": "https://www.insta-pola.com/mcp/claude" }
+  }
+}

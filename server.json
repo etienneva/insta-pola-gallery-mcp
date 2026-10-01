@@ -1,0 +1,23 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.insta-pola/photo-gallery",
+  "title": "Insta-Pola Photo Gallery",
+  "description": "Create shared event photo galleries with a QR code, a live photo wall and AI caption suggestions.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.insta-pola.com",
+  "icons": [
+    {
+      "src": "https://www.insta-pola.com/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.insta-pola.com/mcp"
+    }
+  ]
+}
