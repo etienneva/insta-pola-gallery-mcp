@@ -91,4 +91,6 @@ See [`examples/`](examples). Your client opens the Insta-Pola sign-in page on fi
 
 This repository documents the hosted server; the server source code is not published here.
 
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/etienneva/insta-pola-gallery-mcp)
+
 Insta-Pola is published by Racine de E (France).
